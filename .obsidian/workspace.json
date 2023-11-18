@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "3f0e947271dfd2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d5dd20364e300c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69345c0bdf041841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "音乐/乐理知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0c4633583253293",
+    "type": "split",
+    "children": [
+      {
+        "id": "212849981196a480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "153b45b474075d7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4127e5f9da5ad3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "826f9b385dbb267b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c456dbc24f9a6be",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75b0f4361162282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b333c88a435a8323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "音乐/乐理知识.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f1827f25b138fc81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "音乐/乐理知识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d662fc6a1401fd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7381a6d304046df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "音乐/乐理知识.md"
+              }
+            }
+          },
+          {
+            "id": "4356d05af4ca2d9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "69345c0bdf041841",
+  "lastOpenFiles": [
+    "Pasted image 20231118170220.png",
+    "2023-11-18.md",
+    "未命名.canvas",
+    "音乐/乐理知识.md",
+    "国庆安排.md",
+    "简历/项目经历.md",
+    "日常任务/任务列表.md",
+    "音乐",
+    "简历",
+    "2023-09-18.md",
+    "日常任务"
+  ]
+}
